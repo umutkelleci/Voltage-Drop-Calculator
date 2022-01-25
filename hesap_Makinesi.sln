@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hesap_Makinesi", "hesap_Makinesi\hesap_Makinesi.csproj", "{10CBD0AD-DAF6-4591-8F31-26BEFACF6B80}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Gerilim Düşüm Hesaplama", "Gerilim Düşüm Hesaplama\Gerilim Düşüm Hesaplama.vdproj", "{8CFEF317-85C0-41C4-8BA3-30C19F923C6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10CBD0AD-DAF6-4591-8F31-26BEFACF6B80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10CBD0AD-DAF6-4591-8F31-26BEFACF6B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10CBD0AD-DAF6-4591-8F31-26BEFACF6B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10CBD0AD-DAF6-4591-8F31-26BEFACF6B80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CFEF317-85C0-41C4-8BA3-30C19F923C6E}.Debug|Any CPU.ActiveCfg = Debug
+		{8CFEF317-85C0-41C4-8BA3-30C19F923C6E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A6B2D2D-F1E4-461D-BF99-8989440C6E9E}
+	EndGlobalSection
+EndGlobal
